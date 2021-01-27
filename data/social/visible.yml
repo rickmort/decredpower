@@ -10,14 +10,12 @@
 - 
   link: https://t.me/DecredSupport
   description: t.me/decredsupport
-  newLink: true
 -
   link: https://twitter.com/decredproject
   description: twitter.com/decredproject
 -
   link: https://www.instagram.com/decredproject/
   description: instagram.com/decredproject
-  newLink: true
 -
   link: https://www.facebook.com/decredproject
   description: facebook.com/decredproject
@@ -33,7 +31,6 @@
 -
   link: https://t.me/DecredES
   description: t.me/DecredES
-  newLink: true
 -
   link: https://t.me/s/DecredAgg
   description: t.me/s/DecredAgg

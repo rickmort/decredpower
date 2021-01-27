@@ -25,11 +25,9 @@
 -
   link: https://twitter.com/_Checkmatey_
   description: twitter.com/_Checkmatey_
-  newLink: true
 -
   link: https://twitter.com/ammarooni
   description: twitter.com/ammarooni
-  newLink: true
 -
   link: https://twitter.com/DecredDragon
   description: twitter.com/DecredDragon
@@ -48,7 +46,6 @@
 -
   link: https://twitter.com/dcrStakeyClub
   description: twitter.com/dcrStakeyClub
-  newLink: true
 -
   link: https://twitter.com/decredexplorer
   description: twitter.com/decredexplorer
@@ -64,7 +61,6 @@
 -
   link: https://www.instagram.com/official_cryptos/
   description: instagram.com/official_cryptos
-  newLink: true
 -
   link: https://www.facebook.com/groups/decredbrasil
   description: facebook.com/groups/decredbrasil
@@ -77,7 +73,6 @@
 - 
   link: https://www.facebook.com/DecredArabia
   description: facebook.com/DecredArabia
-  newLink: true
 - 
   link: https://www.facebook.com/decredau/
   description: facebook.com/decredau
@@ -90,4 +85,3 @@
 -
   link: https://www.eventbrite.com/o/decred-latam-18685625145
   description: "Eventbrite: Decred Latam"
-  newLink: true

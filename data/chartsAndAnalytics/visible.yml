@@ -25,7 +25,6 @@
 -
   link: https://dcronchain.com/
   description: dcronchain.com
-  newLink: true
 - 
   link: https://explorer.dcr.farm
   description: explorer.dcr.farm
@@ -41,11 +40,9 @@
 -
   link: https://www.coinbase.com/price/decred
   description: coinbase.com/price/decred
-  newLink: true
 -
   link: https://coin360.com/coin/decred-dcr
   description: coin360.com/coin/decred-dcr
-  newLink: true
 - 
   link: https://coindesk.com/price/decred
   description: coindesk.com/price/decred
@@ -58,7 +55,6 @@
 -
   link: https://bitcoindominance.com
   description: bitcoindominance.com
-  newLink: true
 - 
   link: https://www.nicehash.com/algorithm/decred
   description: nicehash.com/algorithm/decred
