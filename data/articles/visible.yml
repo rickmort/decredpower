@@ -2,6 +2,26 @@
   link: https://docs.decred.org/getting-started/articles-and-media
   description: docs.decred.org/getting-started/articles-and-media
 -
+  link: https://medium.com/decred/decred-mining-market-mechanics-fd26b921dc46
+  description: Decred, Mining Market Mechanics
+  newLink: true
+-
+  link: https://blog.decred.org/2020/07/01/The-Federal-Reserve-A-Blatantly-Rigged-Game/
+  description: "The Federal Reserve: A Blatantly Rigged Game"
+  newLink: true
+-
+  link: https://blog.decred.org/2020/06/02/A-More-Private-Way-to-Stake/
+  description: A More Private Way to Stake
+  newLink: true
+-
+  link: https://medium.com/decred/decred-the-resilient-stronghold-4038dc64dd2a
+  description: Decred, The Resilient Stronghold
+  newLink: true
+-
+  link: https://blog.decred.org/2019/11/11/LN-Multi-Owner-Tickets/
+  description: LN & Multi-Owner Tickets
+  newLink: true
+-
   link: https://medium.com/decred/running-a-decred-raspberry-pi-node-ac605b70c652
   description: Running a Raspberry Pi Node
 -

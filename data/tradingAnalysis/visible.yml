@@ -2,6 +2,14 @@
   link: https://medium.com/@permabullnino/decred-on-chain-mini-pub-2-hodl-power-d1cf8bafbffc
   description: "Decred on-chain mini pub 2: hold power"
 -
+  link: https://medium.com/decred/decred-on-chain-realised-cap-mvrv-ratio-and-gradient-oscillators-a36ed2cc81
+  description: "Decred On-chain: Realised Cap, MVRV Ratio and Gradient Oscillators"
+  newLink: true
+-
+  link: https://medium.com/@permabullnino/decred-on-chain-ticket-funding-rates-4e7233c7b64f
+  description: "Decred On-Chain: Ticket Funding Rates"
+  newLink: true
+-
   link: https://github.com/bochinchero/decred-pub/
   description: github.com/bochinchero/decred-pub
   newLink: true
