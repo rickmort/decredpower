@@ -14,6 +14,15 @@
   link: https://medium.com/politeia-digest
   description: medium.com/politeia-digest
 -
+  link: https://blockcommons.red
+  description: blockcommons.red
+-
+  link: https://withdecred.org/
+  description: withdecred.org
+-
+  link: https://stakey.club/en/articles
+  description: stakey.club
+-
   link: https://medium.com/@decreddrive
   description: medium.com/@decreddrive
 -
@@ -29,15 +38,6 @@
   link: https://medium.com/@Ammarooni
   description: medium.com/@Ammarooni
 -
-  link: https://blockcommons.red
-  description: blockcommons.red
--
-  link: https://withdecred.org/
-  description: withdecred.org
--
-  link: https://stakey.club/en/articles
-  description: stakey.club
--
   link: https://blog.neverstopmarketing.com/tag/decred
   description: blog.neverstopmarketing.com/tag/decred
 -
@@ -47,5 +47,12 @@
   link: https://thedecreddigest.wordpress.com/
   description: thedecreddigest.wordpress.com
 -
+  link: https://www.whydecred.com/
+  description: whydecred.com/
+  newLink: true
+-
   link: https://medium.com/decred-es
   description: medium.com/decred-es
+-
+  link: https://www.criptonoticias.com/etiquetas/decred-dcr/
+  description: criptonoticias.com (spanish)

@@ -14,6 +14,25 @@
   link: https://medium.com/coinmonks/decred-price-a-seasonality-study-414bac98bc99
   description: "Decred Price: A Seasonality Study"
 -
+  link: https://medium.com/decred/decred-mining-market-mechanics-fd26b921dc46
+  description: Decred, Mining Market Mechanics
+  newLink: true
+-
+  link: https://stakey.club/en/dcrdata-running-your-own-block-explorer/
+  description: Running Your Own Block Explorer
+  newLink: true
+-
+  link: https://medium.com/decred/decred-blockchain-analysis-part-1-d56105699cf3
+  description: Decred Blockchain Analysis — Part 1
+  newLink: true
+-
+  link: https://noahpierau.medium.com/what-is-decred-dcr-why-was-this-cryptocurrency-created-4e5cae085bc7
+  description: "Decred FAQ: What is DCR? Why was this cryptocurrency created?"
+  newLink: true
+-
+  link: https://github.com/monsieurbulb/forksintheroad/blob/master/Decred_forks_in_the_road.md
+  description: Decred Forks in The Road
+-
   link: https://es.cointelegraph.com/news/there-will-be-a-new-edition-of-lets-talk-decred-about-defi-nfts-and-the-future-of-investments
   description: "DeFi - NFTS (spanish)"
 -
@@ -31,9 +50,6 @@
 -
   link: https://es.cointelegraph.com/news/decred-co-founder-cbdcs-can-facilitate-crony-capitalism
   description: Las CBDC facilitarán el crecimiento del capitalismo amiguista (spanish)
--
-  link: https://www.criptonoticias.com/etiquetas/decred-dcr/
-  description: criptonoticias.com (spanish)
 -
   link: https://medium.com/decred-es/porque-decred-es-necesario-un-enfoque-inclusivo-sobre-el-dinero-duradero-b8235fb312f3
   description: Porque Decred es Necesario (spanish)

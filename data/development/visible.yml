@@ -1,10 +1,4 @@
 -
-  link: https://decred.org
-  description: decred.org
--
-  link: http://www.github.com/decred
-  description: github.com/decred
--
   link: https://github.com/decred/dcrd/blob/master/docs/code_contribution_guidelines.md
   description: Code Contribution Guidelines
 -
@@ -13,6 +7,28 @@
 -
   link: https://docs.decred.org
   description: docs.decred.org
+-
+  link: http://www.github.com/decred
+  description: github.com/decred
+-
+  link: https://github.com/planetdecred/
+  description: github.com/planetdecred
+  newLink: true
+-
+  link: http://www.github.com/raedahgroup
+  description: github.com/raedahgroup
+- 
+  link: https://github.com/decred/dcrros
+  description: github.com/decred/dcrros
+-
+  link: https://github.com/decred/dcps
+  description: github.com/decred/dcps
+-
+  link: https://decred.github.io/pi-ui
+  description: decred.github.io/pi-ui
+- 
+  link: https://pypi.org/project/decred/
+  description: pypi.org/project/decred
 -
   link: https://docs.decred.org/governance/decred-constitution
   description: docs.decred.org/governance/decred-constitution
@@ -23,23 +39,18 @@
   link: https://github.com/decred/dcrdesign/releases
   description: github.com/decred/dcrdesign/releases
 -
-  link: http://www.github.com/raedahgroup
-  description: github.com/raedahgroup
--
   link: http://www.github.com/decredcommunity
   description: github.com/decredcommunity
 -
-  link: https://github.com/decred/dcps
-  description: github.com/decred/dcps
+  link: https://github.com/decredcommunity/events/
+  description: github.com/decredcommunity/events
 - 
-  link: https://github.com/decred/dcrros
-  description: github.com/decred/dcrros
+  link: https://github.com/decredcommunity/translations
+  description: github.com/decredcommunity/translations
 -
-  link: https://github.com/matheusd/bip39-to-dcr-seed
-  description: github.com/matheusd/bip39-to-dcr-seed
--
-  link: https://github.com/decredcommunity/events/tree/master/reports
-  description: github.com/decredcommunity/events/tree/master/reports
--
-  link: https://decred.github.io/pi-ui
-  description: decred.github.io/pi-ui
+  link: https://github.com/decredcommunity/guidelines
+  description: github.com/decredcommunity/guidelines
+  newLink: true
+- 
+  link: https://github.com/DecredES
+  description: github.com/DecredES

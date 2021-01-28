@@ -8,26 +8,23 @@
   link: https://bitcointalk.org/index.php?topic=169204.msg1760397
   description: Tacotime whitepaper draft
 -
-  link: https://explorer.dcrdata.org/block/0
-  description: Genesis Block
--
   link: https://explorer.dcrdata.org/block/1
   description: explorer.dcrdata.org/block/1
 -
   link: https://blog.companyzero.com/2015/11/bitcoins-biggest-challenges
-  description: blog.companyzero.com/2015/11/bitcoins-biggest-challenges
+  description: Bitcoin’s biggest challenges by Company 0
 -
   link: https://blog.companyzero.com/2015/12/iterating-bitcoin
-  description: blog.companyzero.com/2015/12/iterating-bitcoin
+  description: Iterating Bitcoin by Company 0
 -
   link: https://blog.companyzero.com/2015/12/decred-rethink-digital-currency
-  description: blog.companyzero.com/2015/12/decred-rethink-digital-currency
+  description: "Decred: Rethink Digital Currency by Company 0"
 -
   link: https://blog.companyzero.com/2016/01/decred-testnet-binaries-code-and-docs
-  description: blog.companyzero.com/2016/01/decred-testnet-binaries-code-and-docs
+  description: "Decred Testnet: Binaries, Code and Docs by Company 0"
 -
   link: https://conformal.com/the-bitcoin-consensus-red-herring
-  description: conformal.com/the-bitcoin-consensus-red-herring
+  description: The Bitcoin Consensus Red Herring
 -
   link: https://conformal.com/btcd-a-bitcoind-alternative-written-in-go/
   description: "Btcd: a Bitcoind Alternative Written in Go"

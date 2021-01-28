@@ -41,11 +41,21 @@
   link: https://www.coinbase.com/price/decred
   description: coinbase.com/price/decred
 -
+  link: https://blockfolio.com/coin/DCR
+  description: blockfolio.com/coin/DCR
+  newLink: true
+-
   link: https://coin360.com/coin/decred-dcr
   description: coin360.com/coin/decred-dcr
 - 
   link: https://coindesk.com/price/decred
   description: coindesk.com/price/decred
+-
+  link: https://www.stakingrewards.com/earn/decred
+  description: stakingrewards.com/earn/decred
+-
+  link: https://staking.com/decred
+  description: staking.com/decred
 -  
   link: https://www.tradingview.com/markets/cryptocurrencies/prices-decred
   description: tradingview.com/markets/cryptocurrencies/prices-decred

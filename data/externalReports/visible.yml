@@ -1,12 +1,12 @@
 -
-  link: https://academy.binance.com/blockchain/hybrid-pow-pos-consensus-explained
+  link: https://academy.binance.com/en/articles/hybrid-pow-pos-consensus-explained
   description: Hybrid PoW/PoS Consensus Explained
 -
   link: https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis
   description: Decred Investment Thesis by Placeholder
 -
-  link: https://twitter.com/lukebp_/status/1154398108538658816
-  description: Decred Investment Thesis in One Tweet by Lukebp
+  link: https://www.blockheadcap.com/post/decred-investment-thesis
+  description: Decred Investment Thesis by Blockheadcap
 -
   link: https://decred.org/dtb001.pdf
   description: Decred Technical Brief
@@ -16,3 +16,13 @@
 -
   link: https://sci.smithandcrown.com/research/decred-report
   description: Decred Report by Smithandcrown
+- 
+  link: https://support.ledger.com/hc/en-us/articles/360013224873-Decred-DCR
+  description: Use DCR on Ledger
+  newLink: true
+-
+  link: https://hackmd.io/@swack0/HkR1_GvYI
+  description: What if Bitcoin had a Treasury?
+-
+  link: https://blockonomi.com/blockchain-governance/
+  description: What is Blockchain Governance?

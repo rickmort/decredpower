@@ -1,6 +1,9 @@
 -
-  link: https://ln-map.jamieholdstock.com
-  description: ln-map.jamieholdstock.com
--
   link: https://github.com/decred/dcrlnd
   description: github.com/decred/dcrlnd
+-
+  link: https://ln-map.jholdstock.uk/
+  description: ln-map.jholdstock.uk
+-
+  link: https://testnet-ln-map.jholdstock.uk/
+  description: testnet-ln-map.jholdstock.uk

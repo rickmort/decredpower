@@ -1,27 +1,28 @@
 -
-  link: https://twitter.com/DecredVietnam
-  description: twitter.com/DecredVietnam
+  link: https://twitter.com/decredfrance
+  description: twitter.com/decredfrance
 -
-  link: https://twitter.com/DecredArabia
-  description: "Twitter: Decred Arabia"
+  link: https://twitter.com/DecredIndia
+  description: twitter.com/DecredIndia
 -
-  link: https://twitter.com/Decred_CA
-  description: "Twitter: Decred Canada"
--
-  link: https://twitter.com/Decred_BR
-  description: "Twitter: Decred Brasil"
+  link: https://twitter.com/DecredIreland
+  description: twitter.com/DecredIreland
 -
   link: https://twitter.com/Decred_ITA
-  description: "Twitter: Decred Italy"
+  description: twitter.com/Decred_ITA
 -
   link: https://twitter.com/Decred_JPN
-  description: "Twitter: Decred Japan"
+  description: twitter.com/Decred_JPN
 -
   link: https://twitter.com/Decred_PL
-  description: "Twitter: Decred Poland"
+  description: twitter.com/Decred_PL
 -
   link: https://twitter.com/Decred_RU
-  description: "Twitter: Decred Russia"
+  description: twitter.com/Decred_RU
+  newLink: true
+-
+  link: https://twitter.com/DecredVietnam
+  description: twitter.com/DecredVietnam
 -
   link: https://twitter.com/_Checkmatey_
   description: twitter.com/_Checkmatey_
@@ -31,9 +32,6 @@
 -
   link: https://twitter.com/DecredDragon
   description: twitter.com/DecredDragon
--
-  link: https://twitter.com/coveryfire7777
-  description: twitter.com/coveryfire7777 (exitus)
 -
   link: https://twitter.com/tokeytrades
   description: twitter.com/tokeytrades
@@ -53,35 +51,26 @@
   link: https://twitter.com/AllThingsDecred
   description: twitter.com/AllThingsDecred
 -
-  link: https://www.instagram.com/decred_es
-  description: instagram.com/decred_es
--
   link: https://instagram.com/decredbr
   description: instagram.com/decredbr
 -
-  link: https://www.instagram.com/official_cryptos/
-  description: instagram.com/official_cryptos
+  link: https://www.instagram.com/decred_es
+  description: instagram.com/decred_es
 -
   link: https://www.facebook.com/groups/decredbrasil
   description: facebook.com/groups/decredbrasil
 -
-  link: https://facebook.com/groups/decredinternational
-  description: facebook.com/groups/decredinternational
--
   link: https://facebook.com/decredESP
   description: facebook.com/decredESP
+-
+  link: https://facebook.com/groups/decredinternational
+  description: facebook.com/groups/decredinternational
 - 
   link: https://www.facebook.com/DecredArabia
   description: facebook.com/DecredArabia
 - 
   link: https://www.facebook.com/decredau/
   description: facebook.com/decredau
--
-  link: https://decredible.com
-  description: decredible.com
--
-  link: https://www.meetup.com/pt-BR/DecredBrasil
-  description: meetup.com/pt-BR/DecredBrasil
 -
   link: https://www.eventbrite.com/o/decred-latam-18685625145
   description: "Eventbrite: Decred Latam"

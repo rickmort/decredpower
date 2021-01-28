@@ -20,9 +20,6 @@
   link: https://beincrypto.com/price/decred
   description: beincrypto.com/price/decred
 -
-  link: https://app.cryptosheets.com/#/browse/Decred%20Data
-  description: app.cryptosheets.com/#/browse/Decred%20Data
--
   link: https://dcr.tokenview.com
   description: dcr.tokenview.com
 -
@@ -30,7 +27,7 @@
   description: Correlation Charts on Coinmetrics
 -
   link: https://lunarcrush.com/coins/dcr/decred?
-  description: lunarcrush.com/coins/dcr/decred?
+  description: lunarcrush.com/coins/dcr/decred
 -
   link: https://clankapp.com/decred
   description: clankapp.com/decred
@@ -56,14 +53,13 @@
   link: https://charts.dcr.farm/d/000000014/nodes?orgId=1&from=now-2y&to=now
   description: Nodes on dcr.farm
 -
-  link: https://infinitysearch.co/results?q=decred
-  description: infinitysearch.co/results?q=decred
+  link: https://dcrwages.jamieholdstock.com/
+  description: dcrwages.jamieholdstock.com
+  newLink: true
 -
-  link: https://www.stakingrewards.com/earn/decred
-  description: stakingrewards.com/earn/decred
--
-  link: https://staking.com/decred
-  description: staking.com/decred
+  link: https://checkonchain.com/#decred
+  description: checkonchain.com/#decred
+  newLink: true
 -
   link: https://coin.market/crypto/decred-dcr-coin
   description: coin.market/crypto/decred-dcr-coin
@@ -73,3 +69,11 @@
 -
   link: https://github.com/decredcommunity/network-stats
   description: github.com/decredcommunity/network-stats
+-
+  link: https://github.com/xaur/decred-network-stats
+  description: https://github.com/xaur/decred-network-stats
+  newLink: true
+- 
+  link: https://github.com/RichardRed0x/social-media-data/
+  description: https://github.com/RichardRed0x/social-media-data
+  newLink: true

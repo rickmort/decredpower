@@ -2,36 +2,40 @@
   link: https://decred.org/exchanges
   description: decred.org/exchanges
 -
-  link: https://www.sequoir.com/
-  description: sequoir.com (USD-DCR)
+  link: https://app.sequoir.com/assets/dcr
+  description: sequoir.com
 -
   exchange: binance.com
-  pars: 
+  pars:
+    -
+      par: DCR-USDT
+      link: https://www.binance.com/en/trade/DCR_USDT 
     -
       par: DCR-BTC
       link: https://www.binance.com/en/trade/DCR_BTC
-    -
-      par: DCR-USDT
-      link: https://www.binance.com/en/trade/DCR_USDT
-    -
-      par: DCR-BUSD
-      link: https://www.binance.com/en/trade/DCR_BUSD
       lastItem: true
-- 
-  exchange: bittrex.com
+    
+-
+  exchange: bitasset.com
   pars:
     -
-      par: USD-DCR
-      link: https://global.bittrex.com/Market/Index?MarketName=USD-DCR
-    - 
-      par: BTC-DCR
-      link: https://global.bittrex.com/Market/Index?MarketName=BTC-DCR
-    - 
-      par: USDT-DCR
-      link: https://global.bittrex.com/Market/Index?MarketName=USDT-DCR
+      par: DCR-USDT
+      link: https://www.bitasset.com/ktrade/DCR-USDT
       lastItem: true
+  newLink: true
 -
-  exchange: huobi.io
+  exchange: bione.me
+  pars:
+    -
+      par: DCR-USDT
+      link: https://www.bitasset.com/ktrade/DCR-USDT
+    -
+      par: DCR-BTC
+      link: https://www.bione.me/en_US/trade/DCR_BTC
+      lastItem: true
+  newLink: true
+-
+  exchange: huobi.com
   pars:
     -
       par: DCR-USDT
@@ -39,37 +43,108 @@
     -
       par: DCR-BTC
       link: https://www.huobi.com/en-us/exchange/dcr_btc
+    -
+      par: DCR-ETH
+      link: https://www.huobi.com/en-us/exchange/dcr_eth
       lastItem: true
+-
+  
+  exchange: huobi.co.kr
+  pars:
+    -
+      par: DCR-USDT
+      link: https://www.huobi.co.kr/en-us/exchange/dcr_usdt/
+    -
+      par: DCR-BTC
+      link: https://www.huobi.co.kr/en-us/exchange/dcr_btc/
+    -
+      par: DCR-ETH
+      link: https://www.huobi.co.kr/en-us/exchange/dcr_eth/
+      lastItem: true
+  newLink: true
+-
+  exchange: okex.com
+  pars:
+
+    -
+      par: DCR-USDT
+      link: https://www.okex.com/spot/trade/dcr-usdt
+    -
+      par: DCR-BTC
+      link: https://www.okex.com/spot/trade/dcr-btc
+      lastItem: true
+  newLink: true
+-
+  exchange: hitbtc.com
+  pars:
+    -
+      par: DCR-USDT
+      link: https://hitbtc.com/dcr-to-usdt
+    -
+      par: DCR-BTC
+      link: https://hitbtc.com/dcr-to-btc
+      lastItem: true
+  newLink: true
+-
+  exchange: mxc.com
+  pars:
+    -
+      par: DCR-USDT
+      link: https://www.mxc.com/trade/easy#DCR_USDT
+      lastItem: true
+  newLink: true
 -
   exchange: bkex.com
   pars:
     -
-      par: DCR-BTC
-      link: https://www.bkex.com/trade/DCR_BTC
-    -
       par: DCR-USDT
       link: https://www.bkex.com/trade/DCR_USDT
+      lastItem: true
+-
+  exchange: hoo.com
+  pars:
+    -
+      par: DCR-USDT
+      link: https://hoo.com/spot/dcr-usdt
+      lastItem: true
+  newLink: true
+-
+  exchange: dragonex.io
+  pars:
+    -
+      par: DCR-USDT
+      link: https://dragonex.io/en-us/trade/index/dcr-usdt
+      lastItem: true
+  newLink: true
+- 
+  exchange: biki.cc
+  pars:
+    -
+      par: DCR-USDT
+      link: https://www.biki.cc/en_US/trade/DCR_USDT
+      lastItem: true
+  newLink: true
+-
+  exchange: kucoin.com
+  pars:
+    - 
+      par: DCR-BTC
+      link: https://trade.kucoin.com/DCR-BTC
     -
       par: DCR-ETH
-      link: https://www.bkex.com/trade/DCR_ETH
+      link: https://trade.kucoin.com/DCR-ETH
       lastItem: true
-- 
-  exchange: upbit.com
+-
+  exchange: xt.com
   pars:
     -
-      par: KRW-DCR
-      link: https://upbit.com/exchange?code=CRIX.UPBIT.KRW-DCR
-      lastItem: true
-- 
-  exchange: coinex.com
-  pars:
+      par: DCR-USDT
+      link: https://www.xt.com/trade/dcr_usdt
     -
-      par: USDT-DCR
-      link: https://www.coinex.com/exchange?currency=usdt&dest=dcr
-    -
-      par: BTC-DCR
-      link: https://www.coinex.com/exchange?currency=btc&dest=dcr
+      par: DCR-BTC
+      link: https://www.xt.com/trade/dcr_btc
       lastItem: true
+  newLink: true
 - 
   exchange: gate.io
   pars:
@@ -81,15 +156,49 @@
       link: https://www.gate.io/trade/DCR_BTC
       lastItem: true
 -
-  exchange: exmo.com 
+  exchange: oceanex.com
   pars:
     -
+      par: DCR-USDT
+      link: https://oceanex.pro/en/trades/dcrusdt
+    -
+      par: DCR-VET
+      link: https://oceanex.pro/en/trades/dcrvet
+      lastItem: true
+  newLink: true
+-
+  exchange: account.bitvavo.com
+  pars:
+    -
+      par: DCR-EUR
+      link: https://account.bitvavo.com/markets/DCR-EUR
+    -
       par: DCR-BTC
-      link: https://exmo.com/en/trade/DCR_BTC
+      link: https://account.bitvavo.com/markets/DCR-BTC
+      lastItem: true
+- 
+  exchange: bittrex.com
+  pars:
+    -
+      par: USD-DCR
+      link: https://global.bittrex.com/Market/Index?MarketName=USD-DCR
+    - 
+      par: USDT-DCR
+      link: https://global.bittrex.com/Market/Index?MarketName=USDT-DCR
+    - 
+      par: BTC-DCR
+      link: https://global.bittrex.com/Market/Index?MarketName=BTC-DCR
+      lastItem: true
+-
+  exchange: exmo.com 
+  pars:
     -
       par: DCR-UAH
       link: https://exmo.com/en/trade/DCR_UAH
     -
       par: DCR-RUB
-      link: https://exmo.com/en/trade/DCR_RUB
+      link: https://exmo.com/en/trade/DCR_RUB 
+    -
+      par: DCR-BTC
+      link: https://exmo.com/en/trade/DCR_BTC
       lastItem: true

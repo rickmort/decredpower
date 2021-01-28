@@ -1,4 +1,19 @@
 -
+  link: https://www.bitchute.com/channel/WvRUu3MFHuB8/
+  description: Bitchute Decred channel
+  newLink: true
+-
+  link: https://www.youtube.com/user/PhoenixGreen24
+  description: Decred Society channel
+  newLink: true
+-
+  link: https://www.youtube.com/channel/UCWoknbkENz-W4pg18p57rNA
+  description: Staked Podcast channel
+  newLink: true
+-
+  link: https://www.youtube.com/channel/UCyvkBCFN0AMf3jXf8I7doaQ
+  description: Exitus channel
+-
   link: https://www.youtube.com/watch?v=fD7fKSCEHaI
   description: Decred Coinbase Presentation
 -
@@ -25,14 +40,27 @@
 -
   link: https://www.youtube.com/watch?v=WJs4T0WGe7k
   description: Talks Consensus Rule Changes
+- 
+  link: https://www.youtube.com/watch?v=uOlsTzdrGSc
+  description: Getting started with Decrediton by Decred Society
+  newLink: true
 -
-  link: https://www.youtube.com/results?search_query=decred
-  description: Decred on Youtube
+  link: https://www.youtube.com/watch?v=oqZKE8eKsO8
+  description: Finally Time to Buy DECRED!
+  newLink: true
+-
+ link: https://www.youtube.com/watch?v=q-lwuY5sqXI&f
+ description: My first purchase, using DCRDEX
+ newLink: true
+-
+  link: https://www.youtube.com/watch?v=4_EafyDcJvk
+  description: Luke Powell on Decred Governance, Hybrid Consensus, and New Decentralized Treasury
+  newLink: true
 -
   link: https://www.youtube.com/watch?v=H_COE9A-t3I
   description: Australia Virtual Meetup
 -
-  link: https://twitter.com/coveryfire7777/status/1229517588138528768
+  link: https://twitter.com/exitusdcr/status/1229517588138528768
   description: "Twitter: CathieDWood of ARKInvest"
 -
   link: https://twitter.com/karamblez/status/1178346009178644481
@@ -56,11 +84,11 @@
   link: https://www.youtube.com/watch?v=qNpJZQbodhA
   description: How to buy Decred on SimpleSwap
 -
-  link: https://www.youtube.com/channel/UCCprOo4gR1vsjJTAzv8BMBQ
-  description: Decred en Español
--
   link: https://www.youtube.com/watch?v=b7n81kUAXXk
   description: Clay Stakey - Time to Chill
+-
+  link: https://www.youtube.com/channel/UCCprOo4gR1vsjJTAzv8BMBQ
+  description: Decred en Español channel
 -
   link: https://www.youtube.com/watch?v=XSmdwWykmSo
   description: Blockchain con Decred y dcrdata (spanish)
@@ -80,14 +108,14 @@
   link: https://www.youtube.com/watch?v=RFX0P9MKLKg
   description: Git and Github by Decred (spanish)
 -
-  link: https://www.youtube.com/watch?v=_7Ae_Klwqo0
+  link: https://www.youtube.com/channel/UCCtB2BfsA2VdT0FJXpsYICA
   description: Decred Arabia channel
 -
   link: https://www.youtube.com/channel/UCFjXbEDeyhhj2bH2t_eGKGA
   description: Decred Videos (russian)
 - 
   link: https://www.youtube.com/channel/UC73wa2ddXuPWsmenVfeFTYg
-  description: Decred Brasil
+  description: Decred Brasil channel
 -
   link: https://www.youtube.com/watch?v=mPcPrXEe7Rw
   description: Campus Party Brasil (portuguese)

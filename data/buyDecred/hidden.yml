@@ -1,12 +1,23 @@
 -
-  exchange: kucoin.com
+  exchange: hotbit.com
   pars:
-    - 
+    -
       par: DCR-BTC
-      link: https://trade.kucoin.com/DCR-BTC
+      link: https://www.hotbit.io/exchange?symbol=DCR_BTC
     -
       par: DCR-ETH
-      link: https://trade.kucoin.com/DCR-ETH
+      link: https://www.hotbit.io/exchange?symbol=DCR_ETH
+      lastItem: true
+  newLink: true
+- 
+  exchange: coinex.com
+  pars:
+    -
+      par: USDT-DCR
+      link: https://www.coinex.com/exchange?currency=usdt&dest=dcr
+    -
+      par: BTC-DCR
+      link: https://www.coinex.com/exchange?currency=btc&dest=dcr
       lastItem: true
 -
   exchange: poloniex.com
@@ -14,20 +25,6 @@
     -
       par: BTC-DCR
       link: https://poloniex.com/exchange#btc_dcr
-      lastItem: true
--
-  exchange: account.bitvavo.com
-  pars:
-    -
-      par: DCR-EUR
-      link: https://account.bitvavo.com/markets/DCR-EUR
-      lastItem: true
--
-  exchange: braziliex.com
-  pars:
-    -
-      par: DCR-BRL
-      link: https://braziliex.com/trade.php?market=dcr_brl
       lastItem: true
 - 
   exchange: coindcx.com
@@ -40,11 +37,11 @@
   exchange: catalx.com
   pars:
     -
-      par: BTC-DCR
-      link: https://catalx.io/trade/BTC-DCR
+      par: DCR-USDT    
+      link: https://catalx.io/trade/DCR-USDT
     -
-      par: USDT-DCR    
-      link: https://catalx.io/trade/USDT-DCR
+      par: DCR-BTC
+      link: https://catalx.io/trade/DCR-BTC
       lastItem: true
 - 
   exchange: Bisq P2P
@@ -52,6 +49,13 @@
     -
       par: DCR-BTC
       link: https://bisq.network/markets/?currency=dcr_btc
+      lastItem: true
+-
+  exchange: braziliex.com
+  pars:
+    -
+      par: DCR-BRL
+      link: https://braziliex.com/trade.php?market=dcr_brl
       lastItem: true
 -
   link: https://www.kaiserex.com

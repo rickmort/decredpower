@@ -10,7 +10,7 @@
             <li>
 
                 {{ if .exchange }}
-                <span>{{ .exchange }}</span> ({{ range .pars }}<a href="{{ .link }}" target="_blank">{{ .par }}</a>{{if .lastItem  }}{{ else }}, {{ end }}{{ end }}) {{ if .newLink }}<strong style="font-size: 1.1em">*</strong> {{ end }}
+                <span>{{ .exchange }}</span> ({{ range .pars }}<a href="{{ .link }}" target="_blank">{{ .par }}</a>{{ if .lastItem  }}{{ else }}, {{ end }}{{ end }}) {{ if .newLink }}<strong style="font-size: 1.1em">*</strong> {{ end }}
 
                 {{ else }}
                 <a href="{{ .link }}" target="_blank">{{ .description }}</a> {{ if .newLink }}<strong style="font-size: 1.1em">*</strong> {{ end }}
