@@ -1,6 +1,7 @@
--
-  link: https://github.com/maxbron08/Decred-Canon
-  description: Decred Canon
+- 
+  link: https://support.ledger.com/hc/en-us/articles/360013224873-Decred-DCR
+  description: Use DCR on Ledger by Ledger
+  newLink: true
 -
   link: https://blog.neverstopmarketing.com/decred-and-democracy
   description: blog.neverstopmarketing.com/decred-and-democracy
@@ -28,6 +29,12 @@
 -
   link: https://github.com/monsieurbulb/forksintheroad/blob/master/Decred_forks_in_the_road.md
   description: Decred Forks in The Road
+-
+  link: https://hackmd.io/@swack0/HkR1_GvYI
+  description: What if Bitcoin Had a Treasury? by Hackmd
+-
+  link: https://blog.metalpay.com/metalpay/metal-pay-welcomes-decred-dcr-to-our-marketplace/|
+  description: Metal Pay welcomes Decred
 -
   link: https://es.cointelegraph.com/news/there-will-be-a-new-edition-of-lets-talk-decred-about-defi-nfts-and-the-future-of-investments
   description: "DeFi - NFTS (spanish)"

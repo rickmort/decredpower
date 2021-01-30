@@ -1,25 +1,27 @@
 -
+  link: https://github.com/maxbron08/Decred-Canon
+  description: Decred Canon
+-
   link: https://academy.binance.com/en/articles/hybrid-pow-pos-consensus-explained
-  description: Hybrid PoW/PoS Consensus Explained
+  description: Hybrid PoW/PoS Consensus Explained by Binance
 -
   link: https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis
   description: Decred Investment Thesis by Placeholder
 -
-  link: https://www.blockheadcap.com/post/decred-investment-thesis
-  description: Decred Investment Thesis by Blockheadcap
+  link: https://cryptocommons.cc/governance/decred
+  description: Decred Governance by Cryptocommons
 -
-  link: https://decred.org/dtb001.pdf
-  description: Decred Technical Brief
--
-  link: https://medium.com/coinmonks/decred-an-investment-thesis-bf9ba3cd1042
-  description: "Decred: An Investment Thesis by Coinmonks"
-- 
-  link: https://support.ledger.com/hc/en-us/articles/360013224873-Decred-DCR
-  description: Use DCR on Ledger
-  newLink: true
--
-  link: https://hackmd.io/@swack0/HkR1_GvYI
-  description: What if Bitcoin had a Treasury?
+  link: https://blockcommons.red/post/plutocracy/
+  description: What is on-chain cryptocurrency governance? by Cryptocommons
 -
   link: https://blockonomi.com/blockchain-governance/
-  description: What is Blockchain Governance?
+  description: What is Blockchain Governance? by Blockonomi
+-
+  link: https://formalverification.substack.com/p/in-the-network-decred
+  description: In The Network by Formal Verification
+-
+  link: https://commodity.com/cryptocurrency/decred/
+  description: The Lowdown on This Democratically Managed Cryptocurrency by Commodity
+-
+  link: https://cryptogov.net/akin-sawyerr/
+  description: Interview to Akin Sawyerr by Cryptogov
