@@ -1,52 +1,36 @@
 -
   link: https://dcrdata.org
-  description: dcrdata.org
+  label: dcrdata.org
 - 
   link: https://dcrdata.org/charts
-  description: dcrdata.org/charts
+  label: dcrdata.org/charts
 - 
   link: https://dcrdata.org/market
-  description: dcrdata.org/market
+  label: dcrdata.org/market
 -
   link: https://dcrdata.org/mempool
-  description: dcrdata.org/mempool
+  label: dcrdata.org/mempool
 - 
   link: https://dcrdata.org/ticketpool
-  description: dcrdata.org/ticketpool
+  label: dcrdata.org/ticketpool
 - 
   link: https://dcrdata.org/visualblocks
-  description: dcrdata.org/visualblocks
+  label: dcrdata.org/visualblocks
 - 
   link: http://www.dcrstats.com
-  description: dcrstats.com
+  label: dcrstats.com
 - 
   link: http://www.dcrstats.com/subsidy
-  description: dcrstats.com/subsidy
+  label: dcrstats.com/subsidy
 -
   link: https://dcronchain.com/
-  description: dcronchain.com
+  label: dcronchain.com
 - 
   link: http://www.coinmarketcap.com/currencies/decred
-  description: coinmarketcap.com/currencies/decred
+  label: coinmarketcap.com/currencies/decred
 -
   link: https://www.coinbase.com/price/decred
-  description: coinbase.com/price/decred
+  label: coinbase.com/price/decred
 - 
   link: https://coindesk.com/price/decred
-  description: coindesk.com/price/decred
--  
-  link: https://www.tradingview.com/markets/cryptocurrencies/prices-decred
-  description: tradingview.com/markets/cryptocurrencies/prices-decred
-- 
-  link: https://www.tradingview.com/symbols/DCRBTC/
-  description: tradingview.com/symbols/DCRBTC
-- 
-  link: https://coingecko.com/en/coins/decred
-  description: coingecko.com/en/coins/decred
--
-  link: https://blockfolio.com/coin/DCR
-  description: blockfolio.com/coin/DCR
-  newLink: true
--
-  link: https://messari.io/asset/decred
-  description: messari.io/asset/decred
+  label: coindesk.com/price/decred

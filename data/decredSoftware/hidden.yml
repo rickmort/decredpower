@@ -1,9 +1,9 @@
 -
   link: https://www.coinomi.com/asset/decred
-  description: coinomi.com/asset/decred
+  label: coinomi.com/asset/decred
 -
   link: https://guarda.com/decred-wallet
-  description: guarda.com/decred-wallet
+  label: guarda.com/decred-wallet
 -
   link: https://play.google.com/store/apps/details?id=com.joegruff.decredaddressscanner
-  description: Decred Address Scanner (android)
+  label: Decred Address Scanner (android)

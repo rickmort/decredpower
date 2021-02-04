@@ -1,29 +1,29 @@
 -
   link: https://github.com/decred/dcrd/blob/master/docs/code_contribution_guidelines.md
-  description: Code Contribution Guidelines
+  label: Code Contribution Guidelines
 -
   link: https://devdocs.decred.org
-  description: devdocs.decred.org
+  label: devdocs.decred.org
 -
   link: https://docs.decred.org
-  description: docs.decred.org
+  label: docs.decred.org
 -
   link: https://bounty.decred.org/
-  description: bounty.decred.org
+  label: bounty.decred.org
   newLink: true
 -
   link: http://www.github.com/decred
-  description: github.com/decred
+  label: github.com/decred
 -
   link: https://github.com/planetdecred/
-  description: github.com/planetdecred
+  label: github.com/planetdecred
   newLink: true
 -
   link: http://www.github.com/raedahgroup
-  description: github.com/raedahgroup
+  label: github.com/raedahgroup
 - 
   link: https://github.com/decred/dcrros
-  description: github.com/decred/dcrros
+  label: github.com/decred/dcrros
 -
   link: https://github.com/decred/dcps
-  description: github.com/decred/dcps
+  label: github.com/decred/dcps

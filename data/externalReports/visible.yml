@@ -1,31 +1,31 @@
 -
   link: https://github.com/decredcommunity/events/tree/master/reports
-  description: Decred Event Reports
+  label: Decred Event Reports
 -
   link: https://www.placeholder.vc/blog/2018/5/12/decred-investment-thesis
-  description: Decred Investment Thesis by Placeholder
+  label: Decred Investment Thesis by Placeholder
 -
   link: https://github.com/maxbron08/Decred-Canon
-  description: Decred Canon
+  label: Decred Canon
 -
   link: https://cryptocommons.cc/governance/decred
-  description: Decred Governance by Cryptocommons
+  label: Decred Governance by Cryptocommons
 -
   link: https://formalverification.substack.com/p/in-the-network-decred
-  description: In The Network by Formal Verification
+  label: In The Network by Formal Verification
 -
   link: https://commodity.com/cryptocurrency/decred/
-  description: The Lowdown on This Democratically Managed Cryptocurrency by Commodity
+  label: The Lowdown on This Democratically Managed Cryptocurrency by Commodity
 -
   link: https://ournetwork.substack.com/p/our-network-issue-27-ec4
-  description: "Issue #27 (part 1) by Our Network"
+  label: "Issue #27 (part 1) by Our Network"
   newLink: true
 -
   link: https://ournetwork.substack.com/p/our-network-issue-27
-  description: "Issue #27 (part 2) by Our Network"
+  label: "Issue #27 (part 2) by Our Network"
 -
   link: https://changenow.io/blog/a-2020-in-depth-review-of-decred-dcr
-  description: Depth Review of Decred 2020 by Changenow
+  label: Depth Review of Decred 2020 by Changenow
 -
   link: https://github.com/monsieurbulb/forksintheroad/blob/master/Decred_forks_in_the_road.md
-  description: Decred Forks in The Road
+  label: Decred Forks in The Road

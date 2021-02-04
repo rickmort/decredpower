@@ -1,19 +1,19 @@
 -
   link: https://blog.neverstopmarketing.com/tag/decred
-  description: blog.neverstopmarketing.com/tag/decred
+  label: blog.neverstopmarketing.com/tag/decred
 -
   link: https://news.bitcoin.com/tag/decred
-  description: news.bitcoin.com/tag/decred
+  label: news.bitcoin.com/tag/decred
 -
   link: https://thedecreddigest.wordpress.com/
-  description: thedecreddigest.wordpress.com
+  label: thedecreddigest.wordpress.com
 -
   link: https://www.whydecred.com/
-  description: whydecred.com/
+  label: whydecred.com/
   newLink: true
 -
   link: https://medium.com/decred-es
-  description: medium.com/decred-es
+  label: medium.com/decred-es
 -
   link: https://www.criptonoticias.com/etiquetas/decred-dcr/
-  description: criptonoticias.com (spanish)
+  label: criptonoticias.com (spanish)

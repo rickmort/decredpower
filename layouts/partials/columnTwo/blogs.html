@@ -8,7 +8,7 @@
 
                 {{ range .Site.Data.blogs.visible }}
                 <li>
-                    <a href="{{ .link }}" target="_blank">{{ .description }}</a> {{ if .newLink }}<strong style="font-size: 1.1em">*</strong>{{ end }}
+                    <a href="{{ .link }}" target="_blank">{{ .label }}</a> {{ if .newLink }}<strong style="font-size: 1.1em">*</strong>{{ end }}
                 </li>
                 {{ end }}
                 
@@ -17,7 +17,7 @@
             <ul class="toggle-hidden">
                 {{ range .Site.Data.blogs.hidden }}
                 <li>
-                    <a href="{{ .link }}" target="_blank">{{ .description }}</a> {{ if .newLink }}<strong style="font-size: 1.1em">*</strong>{{ end }}
+                    <a href="{{ .link }}" target="_blank">{{ .label }}</a> {{ if .newLink }}<strong style="font-size: 1.1em">*</strong>{{ end }}
                 </li>
                 {{ end }}
             </ul>

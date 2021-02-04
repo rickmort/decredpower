@@ -1,73 +1,73 @@
 -
   link: https://blockcommons.red/post/plutocracy/
-  description: What is on-chain cryptocurrency governance? by Cryptocommons
+  label: What is on-chain cryptocurrency governance? by Cryptocommons
 -
   link: https://blog.decred.org/2020/07/01/The-Federal-Reserve-A-Blatantly-Rigged-Game/
-  description: "The Federal Reserve: A Blatantly Rigged Game"
+  label: "The Federal Reserve: A Blatantly Rigged Game"
   newLink: true
 -
   link: https://medium.com/decred/decred-the-resilient-stronghold-4038dc64dd2a
-  description: Decred, The Resilient Stronghold
+  label: Decred, The Resilient Stronghold
   newLink: true
 -
   link: https://hackmd.io/@swack0/HkR1_GvYI
-  description: What if Bitcoin Had a Treasury? by Hackmd
+  label: What if Bitcoin Had a Treasury? by Hackmd
 -
   link: https://blog.neverstopmarketing.com/decred-and-democracy
-  description: blog.neverstopmarketing.com/decred-and-democracy
+  label: blog.neverstopmarketing.com/decred-and-democracy
 -
   link: https://medium.com/hashr8/hashr8-privacy-coin-reviews-decred-4d960bb6e5ba
-  description: "Hashr8 Privacy Coin Reviews: Decred"
+  label: "Hashr8 Privacy Coin Reviews: Decred"
 -
   link: https://blog.usejournal.com/apples-to-apples-decred-is-20x-more-expensive-to-attack-than-bitcoin-68bafeb4546f
-  description: Decred is 20x More Expensive to Attack than Bitcoin
+  label: Decred is 20x More Expensive to Attack than Bitcoin
 -
   link: https://medium.com/coinmonks/decred-price-a-seasonality-study-414bac98bc99
-  description: "Decred Price: A Seasonality Study"
+  label: "Decred Price: A Seasonality Study"
 -
   link: https://stakey.club/en/dcrdata-running-your-own-block-explorer/
-  description: Running Your Own Block Explorer
+  label: Running Your Own Block Explorer
   newLink: true
 -
   link: https://medium.com/decred/running-a-decred-raspberry-pi-node-ac605b70c652
-  description: Running a Raspberry Pi Node
+  label: Running a Raspberry Pi Node
 -
   link: https://cryptogov.net/akin-sawyerr/
-  description: Interview to Akin Sawyerr by Cryptogov
+  label: Interview to Akin Sawyerr by Cryptogov
 -
   link: https://medium.com/the-capital/project-rundown-interview-with-decred-on-the-capital-8b647919a339
-  description: Interview on The Capital
+  label: Interview on The Capital
 - 
   link: https://support.ledger.com/hc/en-us/articles/360013224873-Decred-DCR
-  description: Use DCR on Ledger by Ledger
+  label: Use DCR on Ledger by Ledger
   newLink: true
 -
   link: https://blog.metalpay.com/metalpay/metal-pay-welcomes-decred-dcr-to-our-marketplace/
-  description: Metal Pay welcomes Decred
+  label: Metal Pay welcomes Decred
 -
   link: https://es.cointelegraph.com/news/there-will-be-a-new-edition-of-lets-talk-decred-about-defi-nfts-and-the-future-of-investments
-  description: "DeFi - NFTS (spanish)"
+  label: "DeFi - NFTS (spanish)"
 -
   link: https://es.cointelegraph.com/news/decred-introduction-to-a-store-of-value-with-security-adaptability-and-sustainability
-  description: Introducción a Decred (spanish)
+  label: Introducción a Decred (spanish)
 - 
   link: https://es.cointelegraph.com/news/elian-huesca-btc-eth-and-decred-are-part-of-the-greatest-technological-and-economic-revolution-of-our-generation
-  description: BTC, ETH y Decred son parte de la mayor revolución tecnológica y económica de nuestra generación (spanish)
+  label: BTC, ETH y Decred son parte de la mayor revolución tecnológica y económica de nuestra generación (spanish)
 - 
   link: https://es.cointelegraph.com/news/decred-co-founder-calls-paypal-and-crypto-an-odd-combination
-  description: El cofundador de Decred cree que PayPal y las criptomonedas son una combinación extraña (spanish)
+  label: El cofundador de Decred cree que PayPal y las criptomonedas son una combinación extraña (spanish)
 -
   link: https://es.cointelegraph.com/news/decred-co-founder-cbdcs-can-facilitate-crony-capitalism
-  description: Las CBDC facilitarán el crecimiento del capitalismo amiguista (spanish)
+  label: Las CBDC facilitarán el crecimiento del capitalismo amiguista (spanish)
 -
   link: https://medium.com/decred-es/porque-decred-es-necesario-un-enfoque-inclusivo-sobre-el-dinero-duradero-b8235fb312f3
-  description: Porque Decred es Necesario (spanish)
+  label: Porque Decred es Necesario (spanish)
 -
   link: http://www.github.com/Guang168/DCR_articles
-  description: "GitHub: Chinese Articles"
+  label: "GitHub: Chinese Articles"
 -
   link: https://github.com/raedahgroup/translations/tree/master/vietnamese
-  description: Vietnamese Translations
+  label: Vietnamese Translations
 -
   link: https://www.halakoei.academy/what-is-decred/
-  description: What is Decred (persian)
+  label: What is Decred (persian)

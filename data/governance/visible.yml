@@ -1,12 +1,12 @@
 -
   link: https://proposals.decred.org
-  description: proposals.decred.org
+  label: proposals.decred.org
 -
   link: https://voting.decred.org
-  description: voting.decred.org
+  label: voting.decred.org
 -
   link: https://dcrdata.org/agendas
-  description: dcrdata.org/agendas
+  label: dcrdata.org/agendas
 -
   link: https://dcrdata.org/proposals
-  description: dcrdata.org/proposals
+  label: dcrdata.org/proposals

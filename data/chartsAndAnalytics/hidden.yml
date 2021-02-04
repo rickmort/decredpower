@@ -1,92 +1,108 @@
+-  
+  link: https://www.tradingview.com/markets/cryptocurrencies/prices-decred
+  label: tradingview.com/markets/cryptocurrencies/prices-decred
+- 
+  link: https://www.tradingview.com/symbols/DCRBTC/
+  label: tradingview.com/symbols/DCRBTC
+- 
+  link: https://coingecko.com/en/coins/decred
+  label: coingecko.com/en/coins/decred
+-
+  link: https://blockfolio.com/coin/DCR
+  label: blockfolio.com/coin/DCR
+  newLink: true
+-
+  link: https://messari.io/asset/decred
+  label: messari.io/asset/decred
 -
   link: https://atomicwallet.io/decred-price
-  description: atomicwallet.io/decred-price
+  label: atomicwallet.io/decred-price
 - 
   link: https://www.nicehash.com/algorithm/decred
-  description: nicehash.com/algorithm/decred
+  label: nicehash.com/algorithm/decred
 -
   link: https://lunarcrush.com/coins/dcr/decred?
-  description: lunarcrush.com/coins/dcr/decred
+  label: lunarcrush.com/coins/dcr/decred
 -
   link: https://cryptocompare.com/coins/dcr/overview/
-  description: cryptocompare.com/coins/dcr/overview
+  label: cryptocompare.com/coins/dcr/overview
 - 
   link: https://trends.google.com/trends/explore?q=decred
-  description: trends.google.com/trends/explore?q=decred
+  label: trends.google.com/trends/explore?q=decred
 -
   link: https://coinmetrics.io/correlation-charts/#assets=btc-dcr,dcr-dxy,dcr-gld,dcr-s&p,dcr-vix
-  description: Correlation Charts on Coinmetrics
+  label: Correlation Charts on Coinmetrics
 -
   link: https://bravenewcoin.com/data-and-charts/assets/DCR/price
-  description: Data and Charts on Bravenewcoin
+  label: Data and Charts on Bravenewcoin
 -
   link: https://bravenewcoin.com/insights/price-analysis/Decred
-  description: Price Analysis on Bravenewcoin
+  label: Price Analysis on Bravenewcoin
 -
   link: https://whattomine.com/coins/152-dcr-blake-14r
-  description: whattomine.com/coins/152-dcr-blake-14r
+  label: whattomine.com/coins/152-dcr-blake-14r
 -
   link: https://livecoinwatch.com/price/Decred-DCR
-  description: livecoinwatch.com/price/Decred-DCR
+  label: livecoinwatch.com/price/Decred-DCR
 -
   link: https://beincrypto.com/price/decred
-  description: beincrypto.com/price/decred
+  label: beincrypto.com/price/decred
 -
   link: https://cryptoslate.com/coins/decred
-  description: cryptoslate.com/coins/decred
+  label: cryptoslate.com/coins/decred
 -
   link: https://www.stakingrewards.com/earn/decred
-  description: stakingrewards.com/earn/decred
+  label: stakingrewards.com/earn/decred
 -
   link: https://worldcoinindex.com/coin/decred
-  description: worldcoinindex.com/coin/decred
+  label: worldcoinindex.com/coin/decred
 -
   link: https://coincap.io/assets/decred
-  description: coincap.io/assets/decred
+  label: coincap.io/assets/decred
 -
   link: https://coin360.com/coin/decred-dcr
-  description: coin360.com/coin/decred-dcr
+  label: coin360.com/coin/decred-dcr
 -
   link: https://tokeninsight.com/tokenDetail?cid=2561
-  description: tokeninsight.com/tokenDetail?cid=2561
+  label: tokeninsight.com/tokenDetail?cid=2561
 -
   link: https://coin.market/crypto/decred-dcr-coin
-  description: coin.market/crypto/decred-dcr-coin
+  label: coin.market/crypto/decred-dcr-coin
 -
   link: https://clankapp.com/decred
-  description: clankapp.com/decred
+  label: clankapp.com/decred
 -
   link: https://dcr.tokenview.com
-  description: dcr.tokenview.com
+  label: dcr.tokenview.com
 -
   link: https://coincodecap.com/project/DCR
-  description: coincodecap.com/project/DCR
+  label: coincodecap.com/project/DCR
 -
   link: https://staking.com/decred
-  description: staking.com/decred
+  label: staking.com/decred
 -
   link: https://bitcoindominance.com
-  description: bitcoindominance.com
+  label: bitcoindominance.com
 - 
   link: https://charts.dcr.farm/
-  description: charts.dcr.farm
+  label: charts.dcr.farm
 - 
   link: https://explorer.dcr.farm
-  description: explorer.dcr.farm
+  label: explorer.dcr.farm
 -
   link: https://dcrwages.jamieholdstock.com/
-  description: dcrwages.jamieholdstock.com
+  label: dcrwages.jamieholdstock.com
   newLink: true
 -
   link: https://checkonchain.com/#decred
-  description: checkonchain.com/#decred
+  label: checkonchain.com/#decred
   newLink: true
 -
   link: http://d3c.red
-  description: d3c.red
+  label: d3c.red
 -
   link: https://github.com/decredcommunity/social-media-stats
-  description: github.com/decredcommunity/social-media-stats
+  label: github.com/decredcommunity/social-media-stats
 -
   link: https://github.com/decredcommunity/network-stats
-  description: github.com/decredcommunity/network-stats
+  label: github.com/decredcommunity/network-stats

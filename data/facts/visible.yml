@@ -1,17 +1,17 @@
 - 
-  description: "Supply Cap: 21 million"
+  label: "Supply Cap: 21 million"
 - 
-  description: Supply reduces by a factor of 100/101 every 21.33 days (6,144 blocks)
+  label: Supply reduces by a factor of 100/101 every 21.33 days (6,144 blocks)
 - 
-  description: "Block Reward: 60% PoW, 30% PoS, 10% Treasury"
+  label: "Block Reward: 60% PoW, 30% PoS, 10% Treasury"
 - 
-  description: "Ticket Pool Size Target: 40,960"
+  label: "Ticket Pool Size Target: 40,960"
 -
   link: https://dcrdata.org/parameters
-  description: dcrdata.org/parameters
+  label: dcrdata.org/parameters
 -
   link: https://www.reddit.com/r/decred/comments/78hzyl/yearly_comparison_of_decred_and_bitcoin_estimated/
-  description: DCR vs BTC supply
+  label: DCR vs BTC supply
 -
   link: https://docs.decred.org/img/ticket_voting_chart.svg
-  description: Ticket Voting Days
+  label: Ticket Voting Days

@@ -1,36 +1,36 @@
 -
   link: https://forum.decred.org
-  description: forum.decred.org
+  label: forum.decred.org
 -
   link: https://bitcointalk.org/index.php?topic=1290358.0
-  description: bitcointalk.org/index.php?topic=1290358.0
+  label: bitcointalk.org/index.php?topic=1290358.0
 -
   link: https://decred.org/dtb001.pdf
-  description: "DTB001: Decred Technical Brief"
+  label: "DTB001: Decred Technical Brief"
 -
   link: https://explorer.dcrdata.org/block/1
-  description: explorer.dcrdata.org/block/1
+  label: explorer.dcrdata.org/block/1
 -
   link: https://blog.companyzero.com/2015/11/bitcoins-biggest-challenges
-  description: Bitcoin’s biggest challenges by Company 0
+  label: Bitcoin’s biggest challenges by Company 0
 -
   link: https://blog.companyzero.com/2015/12/iterating-bitcoin
-  description: Iterating Bitcoin by Company 0
+  label: Iterating Bitcoin by Company 0
 -
   link: https://blog.companyzero.com/2015/12/decred-rethink-digital-currency
-  description: "Decred: Rethink Digital Currency by Company 0"
+  label: "Decred: Rethink Digital Currency by Company 0"
 -
   link: https://blog.companyzero.com/2016/01/decred-testnet-binaries-code-and-docs
-  description: "Decred Testnet: Binaries, Code and Docs by Company 0"
+  label: "Decred Testnet: Binaries, Code and Docs by Company 0"
 -
   link: https://conformal.com/the-bitcoin-consensus-red-herring
-  description: The Bitcoin Consensus Red Herring
+  label: The Bitcoin Consensus Red Herring
 -
   link: https://conformal.com/btcd-a-bitcoind-alternative-written-in-go/
-  description: "Btcd: a Bitcoind Alternative Written in Go"
+  label: "Btcd: a Bitcoind Alternative Written in Go"
 -
   link: https://web.archive.org/web/20200315232833/https://thedecreddigest.com/2017/06/10/decred-where-did-it-all-begin/
-  description: "Decred: Where Did It All Begin?"
+  label: "Decred: Where Did It All Begin?"
 -
   link: https://www.youtube.com/watch?v=Rin8cfA9wJI
-  description: Decred Intro (2016)
+  label: Decred Intro (2016)

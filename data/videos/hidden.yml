@@ -1,120 +1,120 @@
 -
   link: https://www.youtube.com/watch?v=cbfz5djbcb4
-  description: Decred Privacy Flow Rap
+  label: Decred Privacy Flow Rap
 -
   link: https://www.youtube.com/watch?v=9jlHSU8fZio
-  description: Decred Original Governance Rap
+  label: Decred Original Governance Rap
 -
   link: https://www.youtube.com/user/PhoenixGreen24
-  description: Decred Society channel
+  label: Decred Society channel
   newLink: true
 -
   link: https://www.youtube.com/channel/UCWoknbkENz-W4pg18p57rNA
-  description: Staked Podcast channel
+  label: Staked Podcast channel
   newLink: true
 -
   link: https://www.youtube.com/channel/UCyvkBCFN0AMf3jXf8I7doaQ
-  description: Exitus channel
+  label: Exitus channel
 -
   link: https://www.youtube.com/playlist?list=PLaMrpvQ0yJ_z8ZtvgBqinmL74_0W7prv2
-  description: The Decred Assembly
+  label: The Decred Assembly
 -
   link: https://www.youtube.com/watch?v=NQr4Xs6gWgE
-  description: Decred Can Destroy Top Alts
+  label: Decred Can Destroy Top Alts
 -
   link: https://www.youtube.com/watch?v=IDGQsWE3eeg
-  description: "Head of Coinbase Listing's Says Decred is his #1 Project"
+  label: "Head of Coinbase Listing's Says Decred is his #1 Project"
 -
   link: https://www.youtube.com/watch?v=Og3kGX_fYho
-  description: Why Decred Is Overdue for a Coinbase Listing
+  label: Why Decred Is Overdue for a Coinbase Listing
 -
   link: https://www.youtube.com/watch?v=Y3fAbQ0c8z0
-  description: Multicoin LND Invoice Swapping Service
+  label: Multicoin LND Invoice Swapping Service
 -
   link: https://www.youtube.com/watch?v=4_EafyDcJvk
-  description: Luke Powell on Decred Governance, Hybrid Consensus, and New Decentralized Treasury
+  label: Luke Powell on Decred Governance, Hybrid Consensus, and New Decentralized Treasury
   newLink: true
 -
   link: https://www.youtube.com/watch?v=qT9oBsbzUos
-  description: Decred Explained by Blockgeeks
+  label: Decred Explained by Blockgeeks
 -
   link: https://www.youtube.com/watch?v=WJs4T0WGe7k
-  description: Talks Consensus Rule Changes
+  label: Talks Consensus Rule Changes
 - 
   link: https://www.youtube.com/watch?v=uOlsTzdrGSc
-  description: Getting started with Decrediton by Decred Society
+  label: Getting started with Decrediton by Decred Society
   newLink: true
 -
   link: https://www.youtube.com/watch?v=oqZKE8eKsO8
-  description: Finally Time to Buy DECRED!
+  label: Finally Time to Buy DECRED!
   newLink: true
 -
  link: https://www.youtube.com/watch?v=q-lwuY5sqXI&f
- description: My first purchase, using DCRDEX
+ label: My first purchase, using DCRDEX
  newLink: true
 -
   link: https://www.youtube.com/watch?v=H_COE9A-t3I
-  description: Australia Virtual Meetup
+  label: Australia Virtual Meetup
 -
   link: https://twitter.com/exitusdcr/status/1229517588138528768
-  description: "Twitter: CathieDWood of ARKInvest"
+  label: "Twitter: CathieDWood of ARKInvest"
 -
   link: https://twitter.com/karamblez/status/1178346009178644481
-  description: "Twitter: Decred Development Visualized"
+  label: "Twitter: Decred Development Visualized"
 -
   link: https://www.youtube.com/playlist?list=PLR1kUUl6lDcKGekrwuJf4Mfe5KFkhj8Wv
-  description: DCR Price Prediction (playlist)
+  label: DCR Price Prediction (playlist)
 -
   link: https://www.youtube.com/watch?v=TYkIyUaRG0s&t=4h26m06s
-  description: HCPP19 - Opt Out Day 2
+  label: HCPP19 - Opt Out Day 2
 -
   link: https://www.youtube.com/watch?v=HFPsUY3oLWM
-  description: How to Pronounce Politeia
+  label: How to Pronounce Politeia
 -
   link: https://www.youtube.com/watch?v=UlTtfejRoB8
-  description: Politeia Challenge
+  label: Politeia Challenge
 -
   link: https://www.youtube.com/watch?v=NxIwdIcA8h4
-  description: The Easiest Way to Buy DCR
+  label: The Easiest Way to Buy DCR
 -  
   link: https://www.youtube.com/watch?v=qNpJZQbodhA
-  description: How to buy Decred on SimpleSwap
+  label: How to buy Decred on SimpleSwap
 -
   link: https://www.youtube.com/watch?v=b7n81kUAXXk
-  description: Clay Stakey - Time to Chill
+  label: Clay Stakey - Time to Chill
 -
   link: https://www.youtube.com/channel/UCCprOo4gR1vsjJTAzv8BMBQ
-  description: Decred en Español channel
+  label: Decred en Español channel
 -
   link: https://www.youtube.com/watch?v=XSmdwWykmSo
-  description: Blockchain con Decred y dcrdata (spanish)
+  label: Blockchain con Decred y dcrdata (spanish)
 -
   link: https://www.youtube.com/watch?v=gmWSmxb5yvg
-  description: Bitcoin y Blockchain en La Vida Real (spanish)
+  label: Bitcoin y Blockchain en La Vida Real (spanish)
 -
   link: https://www.youtube.com/watch?v=FLDtrRid42Y
-  description: Resumen Diciembre 2019 (spanish)
+  label: Resumen Diciembre 2019 (spanish)
 -
   link: https://www.youtube.com/watch?v=R0Jh32CxDXQ
-  description: Preguntas (spanish)
+  label: Preguntas (spanish)
 -
   link: https://www.youtube.com/watch?v=2VNZKWA5Bdg
-  description: Marketing and Events Proposal 2 (spanish)
+  label: Marketing and Events Proposal 2 (spanish)
 - 
   link: https://www.youtube.com/watch?v=RFX0P9MKLKg
-  description: Git and Github by Decred (spanish)
+  label: Git and Github by Decred (spanish)
 -
   link: https://www.youtube.com/channel/UCCtB2BfsA2VdT0FJXpsYICA
-  description: Decred Arabia channel
+  label: Decred Arabia channel
 -
   link: https://www.youtube.com/channel/UCFjXbEDeyhhj2bH2t_eGKGA
-  description: Decred Videos (russian)
+  label: Decred Videos (russian)
 - 
   link: https://www.youtube.com/channel/UC73wa2ddXuPWsmenVfeFTYg
-  description: Decred Brasil channel
+  label: Decred Brasil channel
 -
   link: https://www.youtube.com/watch?v=mPcPrXEe7Rw
-  description: Campus Party Brasil (portuguese)
+  label: Campus Party Brasil (portuguese)
 -
   link: https://www.youtube.com/watch?v=UWQ7AJ7mPC4
-  description: What is Decred? (Persian)
+  label: What is Decred? (Persian)

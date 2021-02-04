@@ -1,43 +1,43 @@
 -
   link: https://youtube.com/channel/UCJ2bYDaPYHpSmJPh_M5dNSg
-  description: Decred Youtube channel
+  label: Decred Youtube channel
 -
   link: https://www.bitchute.com/channel/WvRUu3MFHuB8/
-  description:  Decred Bitchute channel
+  label:  Decred Bitchute channel
   newLink: true
 -
   link: https://www.youtube.com/playlist?list=PLaMrpvQ0yJ_xQ5bj5lQpFon5oR-ofZA2i
-  description: Decred Bi-Weekly News
+  label: Decred Bi-Weekly News
 -
   link: https://www.youtube.com/watch?v=qjZwWD0pDzw
-  description: Decred Intro
+  label: Decred Intro
 -
   link: https://www.youtube.com/watch?v=ws-8gHJhP3o
-  description: Decred Secure
+  label: Decred Secure
 -
   link: https://www.youtube.com/watch?v=k_QJqsK5YHM
-  description: Decred Adaptable
+  label: Decred Adaptable
 -
   link: https://www.youtube.com/watch?v=wLCmwKzC9_k
-  description: Decred Sustainable
+  label: Decred Sustainable
 -
   link: https://www.coindesk.com/video/365-decred-days
-  description: 365 Decred Days - CoinDesk
+  label: 365 Decred Days - CoinDesk
 -
   link: https://www.youtube.com/watch?v=qHPs6XdP4gQ
-  description: How Decred is Unique
+  label: How Decred is Unique
 -
   link: https://www.youtube.com/watch?v=GAMp5V_gG1E
-  description: What is Decred? an Introduction
+  label: What is Decred? an Introduction
 -
   link: https://www.youtube.com/watch?v=fD7fKSCEHaI
-  description: Decred Coinbase Presentation
+  label: Decred Coinbase Presentation
 -
   link: https://www.youtube.com/watch?v=m5lcm6yttEk
-  description: DCR 101 - How to Stake Decred
+  label: DCR 101 - How to Stake Decred
 -
   link: https://www.youtube.com/watch?v=wEd91Za0nLo
-  description: Problems in Bitcoin that Decred Solves
+  label: Problems in Bitcoin that Decred Solves
 -
   link: https://www.youtube.com/watch?v=kbH51MCr-8Q
-  description: "What is Decred? Crypto in Frisco #7"
+  label: "What is Decred? Crypto in Frisco #7"

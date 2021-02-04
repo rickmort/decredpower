@@ -9,10 +9,10 @@
             {{ range .Site.Data.facts.visible }}
                 {{ if  .link}}
                 <li>
-                    <a href="{{ .link }}" target="_blank">{{ .description }}</a> {{ if .newLink }}<strong style="font-size: 1.1em">*</strong>{{ end }}
+                    <a href="{{ .link }}" target="_blank">{{ .label }}</a> {{ if .newLink }}<strong style="font-size: 1.1em">*</strong>{{ end }}
                 </li>
                 {{ else }}
-                <li><span>{{ .description }}</span></li> {{ if .newLink }}<strong style="font-size: 1.1em">*</strong>{{ end }}
+                <li><span>{{ .label }}</span></li> {{ if .newLink }}<strong style="font-size: 1.1em">*</strong>{{ end }}
                 {{ end }}
             {{end}}
 

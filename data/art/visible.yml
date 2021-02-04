@@ -1,42 +1,42 @@
 -
   link: https://dcrcomic.org
-  description: dcrcomic.org
+  label: dcrcomic.org
 -
   link: https://lottiefiles.com/user/5870
-  description: Decred animations by LottieFiles
+  label: Decred animations by LottieFiles
 -
   link: https://github.com/decred/dcrdesign/issues/31
-  description: Stakey Sticker Set
+  label: Stakey Sticker Set
 -
   link: https://www.instagram.com/anarchyonthe
-  description: "Instagram: Decred Art"
+  label: "Instagram: Decred Art"
 - 
   link: https://github.com/Decred-Bulls/decred-artwork
-  description: github.com/Decred-Bulls/decred-artwork
+  label: github.com/Decred-Bulls/decred-artwork
 - 
   link: https://twitter.com/aithzakaria1/status/1278714765939036166
-  description: Astronaut
+  label: Astronaut
 -
   link: https://twitter.com/AGNFAB1/status/1220091425737580544
-  description: Fire and Water
+  label: Fire and Water
 -
   link: https://twitter.com/TheBochinchero/status/1317804379353894918
-  description: "Revolution: Wake Up and Stake!"
+  label: "Revolution: Wake Up and Stake!"
 -
   link: https://twitter.com/NoahPierau/status/1186553666771271681
-  description: "DCR: Stay Woke"
+  label: "DCR: Stay Woke"
 -
   link: https://twitter.com/plabarta_/status/1317677395936268290/photo/1
-  description: Autonomous & Free
+  label: Autonomous & Free
 -
   link: https://twitter.com/AGNFAB1/status/1216099679911534598
-  description: The Captain's Currency
+  label: The Captain's Currency
 -
   link: https://twitter.com/AGNFAB1/status/1199788339404181504
-  description: Banking on Decred
+  label: Banking on Decred
 -
   link: https://twitter.com/NoahPierau/status/1226978907305467906
-  description: Abstract Blue
+  label: Abstract Blue
 -
   link: https://twitter.com/lefebvre_dustin/status/1213562550408929281
-  description: Stakey Attack
+  label: Stakey Attack

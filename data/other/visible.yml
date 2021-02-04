@@ -1,21 +1,21 @@
 -
   link: https://timestamp.decred.org
-  description: timestamp.decred.org
+  label: timestamp.decred.org
 -
   link: https://cryptosetup.info/
-  description: cryptosetup.info
+  label: cryptosetup.info
 -
   link: https://steelbackup.com
-  description: steelbackup.com
+  label: steelbackup.com
 -
   link: https://howtomine.com/decred
-  description: howtomine.com/decred
+  label: howtomine.com/decred
 -
   link: https://www.huobipool.com/pow
-  description: huobipool.com/pow
+  label: huobipool.com/pow
 -
   link: https://www.cryptominerbros.com/product/strongu-stu-u1-decred-miner/
-  description: cryptominerbros.com - StrongU STU U1++ Decred Miner
+  label: cryptominerbros.com - StrongU STU U1++ Decred Miner
 -
   link: https://coinminingcentral.com/products/strongu-stu-u1-52th-s?rfsn=2715238.88226b
-  description: coinminingcentral.com - StrongU STU U1++ Decred Miner
+  label: coinminingcentral.com - StrongU STU U1++ Decred Miner

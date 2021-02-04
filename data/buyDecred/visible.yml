@@ -1,13 +1,13 @@
 -
   link: https://decred.org/exchanges
-  description: decred.org/exchanges
+  label: decred.org/exchanges
 -
     link: https://dex.decred.org/
-    description: dex.decred.org
+    label: dex.decred.org
     newLink: true
 -
   link: https://app.sequoir.com/assets/dcr
-  description: sequoir.com
+  label: sequoir.com
 -
   exchange: binance.com
   pars:
