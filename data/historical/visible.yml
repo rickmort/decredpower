@@ -1,12 +1,12 @@
 -
+  link: https://forum.decred.org
+  description: forum.decred.org
+-
   link: https://bitcointalk.org/index.php?topic=1290358.0
   description: bitcointalk.org/index.php?topic=1290358.0
 -
   link: https://decred.org/dtb001.pdf
   description: "DTB001: Decred Technical Brief"
--
-  link: https://forum.decred.org
-  description: forum.decred.org
 -
   link: https://explorer.dcrdata.org/block/1
   description: explorer.dcrdata.org/block/1

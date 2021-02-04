@@ -8,6 +8,10 @@
   link: https://docs.decred.org
   description: docs.decred.org
 -
+  link: https://bounty.decred.org/
+  description: bounty.decred.org
+  newLink: true
+-
   link: http://www.github.com/decred
   description: github.com/decred
 -
@@ -23,34 +27,3 @@
 -
   link: https://github.com/decred/dcps
   description: github.com/decred/dcps
--
-  link: https://decred.github.io/pi-ui
-  description: decred.github.io/pi-ui
-- 
-  link: https://pypi.org/project/decred/
-  description: pypi.org/project/decred
--
-  link: https://docs.decred.org/governance/decred-constitution
-  description: docs.decred.org/governance/decred-constitution
--
-  link: https://decred.org/brand
-  description: decred.org/brand
--
-  link: https://github.com/decred/dcrdesign/releases
-  description: github.com/decred/dcrdesign/releases
--
-  link: http://www.github.com/decredcommunity
-  description: github.com/decredcommunity
--
-  link: https://github.com/decredcommunity/events/
-  description: github.com/decredcommunity/events
-- 
-  link: https://github.com/decredcommunity/translations
-  description: github.com/decredcommunity/translations
--
-  link: https://github.com/decredcommunity/guidelines
-  description: github.com/decredcommunity/guidelines
-  newLink: true
-- 
-  link: https://github.com/DecredES
-  description: github.com/DecredES

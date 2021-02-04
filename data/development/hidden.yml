@@ -1,26 +1,53 @@
 -
+  link: https://decred.github.io/pi-ui
+  description: decred.github.io/pi-ui
+- 
+  link: https://pypi.org/project/decred/
+  description: pypi.org/project/decred
+-
+  link: https://bisontrails.co/decred
+  description: bisontrails.co/decred
+-
+  link: https://github.com/dajohi/v3tool
+  description: github.com/dajohi/v3tool
+-
   link: https://github.com/degeri/dcrd_rpc_json
   description: github.com/degeri/dcrd_rpc_json
 -
   link: https://github.com/matheusd/bip39-to-dcr-seed
   description: github.com/matheusd/bip39-to-dcr-seed
 -
-  link: https://github.com/dajohi/v3tool
-  description: github.com/dajohi/v3tool
--
   link: https://github.com/matheusd/spendutxo
   description: github.com/matheusd/spendutxo
   newLink: true
 - 
+  link: https://gist.github.com/pLabarta/a07e1ff4b7429de4b79c6ccfecefb81e
+  description: Simple ticket Price Info in Python
+-
+  link: https://docs.decred.org/governance/decred-constitution
+  description: docs.decred.org/governance/decred-constitution
+-
+  link: http://www.github.com/decredcommunity
+  description: github.com/decredcommunity
+- 
+  link: https://github.com/decredcommunity/translations
+  description: github.com/decredcommunity/translations
+-
+  link: https://github.com/decredcommunity/guidelines
+  description: github.com/decredcommunity/guidelines
+  newLink: true
+- 
   link: https://github.com/exitus1/Video-Scripts
   description: github.com/exitus1/Video-Scripts
-
 - 
   link: https://github.com/buck54321/dcr-research
   description: github.com/buck54321/dcr-research
--
-  link: https://bisontrails.co/decred
-  description: bisontrails.co/decred
 - 
-  link: https://gist.github.com/pLabarta/a07e1ff4b7429de4b79c6ccfecefb81e
-  description: Simple ticket Price Info in Python
+  link: https://github.com/DecredES
+  description: github.com/DecredES
+-
+  link: https://decred.org/brand
+  description: decred.org/brand
+-
+  link: https://github.com/decred/dcrdesign/releases
+  description: github.com/decred/dcrdesign/releases

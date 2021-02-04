@@ -2,23 +2,14 @@
   link: https://www.sequoir.com/swap-pro/
   description: sequoir.com/swap-pro
 -
-  link: https://flyp.me
-  description: flyp.me
--
-  link: https://changenow.io/
-  description: changenow.io
--
-  link: https://coinswitch.co
-  description: coinswitch.co
--
   link: https://changelly.com
   description: changelly.com
 -
   link: https://www.abra.com
   description: abra.com
 -
-  link: https://global.transak.com/
-  description: global.transak.com
+  link: https://changenow.io/
+  description: changenow.io
 -
   link: https://coindcx.com/
   description: coindcx.com
@@ -26,14 +17,17 @@
   link: https://simpleswap.io
   description: simpleswap.io
 -
-  link: https://stealthex.io
-  description: stealthex.io
+  link: https://coinswitch.co
+  description: coinswitch.co
+-
+  link: https://holytransaction.com
+  description: holytransaction.com
 -
   link: https://swapspace.co/
   description: swapspace.co
 -
-  link: https://godex.io
-  description: godex.io
+  link: https://stealthex.io
+  description: stealthex.io
 -
-  link: https://evercoin.com
-  description: evercoin.com
+  link: https://global.transak.com/
+  description: global.transak.com

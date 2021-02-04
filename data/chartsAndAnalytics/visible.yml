@@ -2,6 +2,9 @@
   link: https://dcrdata.org
   description: dcrdata.org
 - 
+  link: https://dcrdata.org/charts
+  description: dcrdata.org/charts
+- 
   link: https://dcrdata.org/market
   description: dcrdata.org/market
 -
@@ -10,9 +13,6 @@
 - 
   link: https://dcrdata.org/ticketpool
   description: dcrdata.org/ticketpool
-- 
-  link: https://dcrdata.org/charts
-  description: dcrdata.org/charts
 - 
   link: https://dcrdata.org/visualblocks
   description: dcrdata.org/visualblocks
@@ -26,51 +26,27 @@
   link: https://dcronchain.com/
   description: dcronchain.com
 - 
-  link: https://explorer.dcr.farm
-  description: explorer.dcr.farm
-- 
-  link: https://charts.dcr.farm/
-  description: charts.dcr.farm
-- 
   link: http://www.coinmarketcap.com/currencies/decred
   description: coinmarketcap.com/currencies/decred
-- 
-  link: https://coingecko.com/en/coins/decred
-  description: coingecko.com/en/coins/decred
 -
   link: https://www.coinbase.com/price/decred
   description: coinbase.com/price/decred
--
-  link: https://blockfolio.com/coin/DCR
-  description: blockfolio.com/coin/DCR
-  newLink: true
--
-  link: https://coin360.com/coin/decred-dcr
-  description: coin360.com/coin/decred-dcr
 - 
   link: https://coindesk.com/price/decred
   description: coindesk.com/price/decred
--
-  link: https://www.stakingrewards.com/earn/decred
-  description: stakingrewards.com/earn/decred
--
-  link: https://staking.com/decred
-  description: staking.com/decred
 -  
   link: https://www.tradingview.com/markets/cryptocurrencies/prices-decred
   description: tradingview.com/markets/cryptocurrencies/prices-decred
 - 
   link: https://www.tradingview.com/symbols/DCRBTC/
   description: tradingview.com/symbols/DCRBTC
--
-  link: https://bitcoindominance.com
-  description: bitcoindominance.com
 - 
-  link: https://www.nicehash.com/algorithm/decred
-  description: nicehash.com/algorithm/decred
+  link: https://coingecko.com/en/coins/decred
+  description: coingecko.com/en/coins/decred
 -
-  link: https://atomicwallet.io/decred-price
-  description: atomicwallet.io/decred-price
-- 
-  link: https://trends.google.com/trends/explore?q=decred
-  description: trends.google.com/trends/explore?q=decred
+  link: https://blockfolio.com/coin/DCR
+  description: blockfolio.com/coin/DCR
+  newLink: true
+-
+  link: https://messari.io/asset/decred
+  description: messari.io/asset/decred

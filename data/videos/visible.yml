@@ -1,9 +1,13 @@
 -
   link: https://youtube.com/channel/UCJ2bYDaPYHpSmJPh_M5dNSg
-  description: Decred channel
+  description: Decred Youtube channel
 -
-  link: https://www.coindesk.com/video/365-decred-days
-  description: 365 Decred Days - CoinDesk
+  link: https://www.bitchute.com/channel/WvRUu3MFHuB8/
+  description:  Decred Bitchute channel
+  newLink: true
+-
+  link: https://www.youtube.com/playlist?list=PLaMrpvQ0yJ_xQ5bj5lQpFon5oR-ofZA2i
+  description: Decred Bi-Weekly News
 -
   link: https://www.youtube.com/watch?v=qjZwWD0pDzw
   description: Decred Intro
@@ -17,14 +21,17 @@
   link: https://www.youtube.com/watch?v=wLCmwKzC9_k
   description: Decred Sustainable
 -
+  link: https://www.coindesk.com/video/365-decred-days
+  description: 365 Decred Days - CoinDesk
+-
   link: https://www.youtube.com/watch?v=qHPs6XdP4gQ
   description: How Decred is Unique
 -
   link: https://www.youtube.com/watch?v=GAMp5V_gG1E
   description: What is Decred? an Introduction
 -
-  link: https://www.youtube.com/watch?v=Og3kGX_fYho
-  description: Decred and Coinbase
+  link: https://www.youtube.com/watch?v=fD7fKSCEHaI
+  description: Decred Coinbase Presentation
 -
   link: https://www.youtube.com/watch?v=m5lcm6yttEk
   description: DCR 101 - How to Stake Decred
@@ -32,8 +39,5 @@
   link: https://www.youtube.com/watch?v=wEd91Za0nLo
   description: Problems in Bitcoin that Decred Solves
 -
-  link: https://www.youtube.com/watch?v=IDGQsWE3eeg
-  description: "Head of Coinbase Listing's Says Decred is his #1 Project"
--
-  link: https://www.youtube.com/watch?v=cbfz5djbcb4
-  description: Decred Privacy Flow Rap
+  link: https://www.youtube.com/watch?v=kbH51MCr-8Q
+  description: "What is Decred? Crypto in Frisco #7"

@@ -1,7 +1,17 @@
-- 
-  link: https://support.ledger.com/hc/en-us/articles/360013224873-Decred-DCR
-  description: Use DCR on Ledger by Ledger
+-
+  link: https://blockcommons.red/post/plutocracy/
+  description: What is on-chain cryptocurrency governance? by Cryptocommons
+-
+  link: https://blog.decred.org/2020/07/01/The-Federal-Reserve-A-Blatantly-Rigged-Game/
+  description: "The Federal Reserve: A Blatantly Rigged Game"
   newLink: true
+-
+  link: https://medium.com/decred/decred-the-resilient-stronghold-4038dc64dd2a
+  description: Decred, The Resilient Stronghold
+  newLink: true
+-
+  link: https://hackmd.io/@swack0/HkR1_GvYI
+  description: What if Bitcoin Had a Treasury? by Hackmd
 -
   link: https://blog.neverstopmarketing.com/decred-and-democracy
   description: blog.neverstopmarketing.com/decred-and-democracy
@@ -19,28 +29,24 @@
   description: Running Your Own Block Explorer
   newLink: true
 -
-  link: https://medium.com/decred/decred-blockchain-analysis-part-1-d56105699cf3
-  description: Decred Blockchain Analysis — Part 1
+  link: https://medium.com/decred/running-a-decred-raspberry-pi-node-ac605b70c652
+  description: Running a Raspberry Pi Node
+-
+  link: https://cryptogov.net/akin-sawyerr/
+  description: Interview to Akin Sawyerr by Cryptogov
+-
+  link: https://medium.com/the-capital/project-rundown-interview-with-decred-on-the-capital-8b647919a339
+  description: Interview on The Capital
+- 
+  link: https://support.ledger.com/hc/en-us/articles/360013224873-Decred-DCR
+  description: Use DCR on Ledger by Ledger
   newLink: true
 -
-  link: https://noahpierau.medium.com/what-is-decred-dcr-why-was-this-cryptocurrency-created-4e5cae085bc7
-  description: "Decred FAQ: What is DCR? Why was this cryptocurrency created?"
-  newLink: true
--
-  link: https://github.com/monsieurbulb/forksintheroad/blob/master/Decred_forks_in_the_road.md
-  description: Decred Forks in The Road
--
-  link: https://hackmd.io/@swack0/HkR1_GvYI
-  description: What if Bitcoin Had a Treasury? by Hackmd
--
-  link: https://blog.metalpay.com/metalpay/metal-pay-welcomes-decred-dcr-to-our-marketplace/|
+  link: https://blog.metalpay.com/metalpay/metal-pay-welcomes-decred-dcr-to-our-marketplace/
   description: Metal Pay welcomes Decred
 -
   link: https://es.cointelegraph.com/news/there-will-be-a-new-edition-of-lets-talk-decred-about-defi-nfts-and-the-future-of-investments
   description: "DeFi - NFTS (spanish)"
--
-  link: https://medium.com/decred/detailed-analysis-of-decred-fork-resistance-93022e0bcde7
-  description: Detailed Analysis of Decred Fork Resistance
 -
   link: https://es.cointelegraph.com/news/decred-introduction-to-a-store-of-value-with-security-adaptability-and-sustainability
   description: Introducción a Decred (spanish)

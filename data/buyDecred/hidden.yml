@@ -1,4 +1,96 @@
 -
+  exchange: bitasset.com
+  pars:
+    -
+      par: DCR-USDT
+      link: https://www.bitasset.com/ktrade/DCR-USDT
+      lastItem: true
+  newLink: true
+-
+  exchange: bione.me
+  pars:
+    -
+      par: DCR-USDT
+      link: https://www.bitasset.com/ktrade/DCR-USDT
+    -
+      par: DCR-BTC
+      link: https://www.bione.me/en_US/trade/DCR_BTC
+      lastItem: true
+  newLink: true
+-
+  exchange: bkex.com
+  pars:
+    -
+      par: DCR-USDT
+      link: https://www.bkex.com/trade/DCR_USDT
+      lastItem: true
+-
+  exchange: hoo.com
+  pars:
+    -
+      par: DCR-USDT
+      link: https://hoo.com/spot/dcr-usdt
+      lastItem: true
+  newLink: true
+-
+  exchange: dragonex.io
+  pars:
+    -
+      par: DCR-USDT
+      link: https://dragonex.io/en-us/trade/index/dcr-usdt
+      lastItem: true
+  newLink: true
+- 
+  exchange: biki.cc
+  pars:
+    -
+      par: DCR-USDT
+      link: https://www.biki.cc/en_US/trade/DCR_USDT
+      lastItem: true
+  newLink: true
+-
+  exchange: xt.com
+  pars:
+    -
+      par: DCR-USDT
+      link: https://www.xt.com/trade/dcr_usdt
+    -
+      par: DCR-BTC
+      link: https://www.xt.com/trade/dcr_btc
+      lastItem: true
+  newLink: true
+- 
+  exchange: gate.io
+  pars:
+    -
+      par: DCR-USDT
+      link: https://www.gate.io/trade/DCR_USDT
+    -
+      par: DCR-BTC
+      link: https://www.gate.io/trade/DCR_BTC
+      lastItem: true
+-
+  exchange: oceanex.com
+  pars:
+    -
+      par: DCR-USDT
+      link: https://oceanex.pro/en/trades/dcrusdt
+    -
+      par: DCR-VET
+      link: https://oceanex.pro/en/trades/dcrvet
+      lastItem: true
+  newLink: true
+-
+  exchange: account.bitvavo.com
+  pars:
+    -
+      par: DCR-EUR
+      link: https://account.bitvavo.com/markets/DCR-EUR
+    -
+      par: DCR-BTC
+      link: https://account.bitvavo.com/markets/DCR-BTC
+      lastItem: true
+-
   exchange: hotbit.com
   pars:
     -
@@ -50,6 +142,17 @@
       par: DCR-BTC
       link: https://bisq.network/markets/?currency=dcr_btc
       lastItem: true
+-
+  exchange: novadax.com.br
+  pars:
+    -
+      par: DCR-USDT
+      link: https://www.novadax.com.br/product/orderbook?pair=DCR_USDT
+    -
+      par: DCR-BRL
+      link: https://www.novadax.com.br/product/orderbook?pair=DCR_BRL
+      lastItem: true
+  newLink: true
 -
   exchange: braziliex.com
   pars:
